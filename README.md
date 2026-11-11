@@ -56,6 +56,7 @@
 - [CSSDeck](http://cssdeck.com/): Collection of Awesome CSS and JS Creations to help out frontend developers and designers.
 - [Plunker](http://plnkr.co/): An online community for creating, collaborating on and sharing your web development ideas.
 - [Gomix](https://gomix.com/): Gomix is the easiest way to build the app or bot of your dreams. Editor, instant hosting and deployment.
+- [NextJSON](https://nextjson.com/): Free online nested JSON parser and formatter; decode escaped JSON, diff and convert JSON in the browser.
 
 
 ## Challenges
